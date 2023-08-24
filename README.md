@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 
 Hi, I'm Qianyi Fan, a second-year master's student in Peking University.
 
-- 🌱 I’m currently learning OS, DB, filesystem, NoSQL...
-- 📫 How to reach me: tomatofaq@gmail.com
-- 📄 [Curriculum Vitae](./doc/Curriculum_Vitae.pdf)
+- I’m currently learning OS, DB, filesystem, NoSQL...
+- How to reach me: tomatofqy@foxmail.com
+- [Curriculum Vitae](./doc/Curriculum_Vitae.pdf)
